@@ -125,7 +125,7 @@
                     </view>
                     <connections>
                         <outlet property="heightLabel" destination="Xcz-1j-2c9" id="MGT-QF-qOU"/>
-                        <outlet property="weightLable" destination="LTF-aL-8qu" id="gHe-jI-fP9"/>
+                        <outlet property="weightLabel" destination="LTF-aL-8qu" id="gHe-jI-fP9"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
